@@ -3,7 +3,7 @@ Esta aplicación sirve para la gestión tanto del almacén de productos, usuario
 
 ---
 
-##Requisitos del sistema
+## Requisitos del sistema
 A continuación, se van a enumerar los requisitos que son necesarios para utilizar la presente aplicación:
 - Sistema operativo, ya sea Windows macOS o Linux (es posible que se necesite en bibliotecas adicionales para el soporte de las interfaces gráficas para algunas configuraciones de Linux).
 - Conexión a internet.
